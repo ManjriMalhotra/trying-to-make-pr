@@ -5,3 +5,9 @@ for hacktober fest
 
 
 hack_3
+
+hack_2
+
+hack_1
+
+
